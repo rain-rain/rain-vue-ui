@@ -124,10 +124,10 @@
       }
 
       @descendent confirm {
-        color: #26a2ff;
+        color: #f05b48;
         width: 50%;
         &:active {
-         color: #26a2ff;
+         color: #f05b48;
         }
       }
     }
